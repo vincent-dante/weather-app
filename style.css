@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #F3FBFB;
+}
+
+#root {
+  height: 500px;
+  width: 500px;
+  margin: 50px auto;
+  background: #fff;
+  box-shadow: 1px 1px 1px black;
+  box-shadow: 0 5px 0px #dde6e6;
+  border-radius: 5px;
+}
